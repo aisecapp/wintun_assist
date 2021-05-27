@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+*.db
+*.opendb
+src/wintunassist/Debug/
+src/wintunassist/Release/
+src/wintunassist/.vs/
+src/wintunassist/x64/
+src/output/
